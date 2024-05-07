@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
-Mexican Internet Observatory is a spin off a research project. 
+Mexican Internet Consumption Observatory is a spin-off research project. 
 <!--
 
 **Here are some ideas to get you started:**
